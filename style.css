@@ -1,10 +1,13 @@
-#social-media {
-    background: black;
+html {
+    scroll-behavior: smooth;
 }
-.media_link {
-    padding: 1rem;
-    max-width: 15rem;
-    margin-left: 1rem;
-    border: 2px solid goldenrod;
-    border-radius: 0.5rem;
+body {
+    background: black;
+    font-family: "Baloo Tamma 2", cursive;
+}
+.container-fluid {
+    text-align: center;
+}
+.boblock li a:hover{
+    color: white;
 }
